@@ -1,16 +1,14 @@
 {
-    "name": "before the Gym - Coming Soon",
-    "description": "Coming soon landing page for before the Gym site",
+    "name": "",
+    "description": "",
     "type": "project",
     "license": "MIT",
     "authors": [
         {
             "name": "Abhishek Shinde",
-            "email": "shindea890@gmail.com"
+            "email": "cto@beforethegym.com"
         }
     ],
-    "require": {},
-    "require-dev": {},
     "config": {
         "optimize-autoloader": true,
         "sort-packages": true
